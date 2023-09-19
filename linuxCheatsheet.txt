@@ -1,0 +1,30 @@
+				CHEATSHEET FOR LINUX COMMANDS
+
+* ls - Lists all the files in the current directory.
+* pwd- print the current working directory.
+* cd- Change the directory.
+* mkdir- Make a new directory.
+* rm- Remove file/s.
+* rmdir- Remove a directory.
+* ifconfig- Check network configurations.
+* cp- Copy files from source to destination directories.
+* mv- Move files from source to destination directories.
+* crontab- Cron tab is a program scheduler , can be used to perform backups.
+* touch- Creates a file.
+* cat- Displays content from the file.
+* rename- Used to rename a file.
+* head- Used to display the first 10 lines of the file.
+* tail- used to display the last 10 lines of the file.
+* tac- Displays the contents of the file in reverse order.
+* man- Used to find something from the entire linux database.
+* su- Provides administrative access to another user.
+* id- Displays the user ID and group ID.
+* useradd- Adds/Remove a new user.
+* passwd- Create/Change the password for a user.
+* groupadd- Create a user group.
+* grep- Useful for searching the content from a file.
+* comm- Used to compare two files.
+* tr- Used to translate the file content like from lower to upper case.
+* wc- Used to count the lines, words and characters in a file.
+* find- Used to find a particular file within a directory. 
+* date- Displays the date,time,time zone and more.
